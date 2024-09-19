@@ -32,7 +32,7 @@ hasil = tanggal_berangkat == tanggal_kembali
 print("apakah tanggal berangkat sama dengan tanggal pulang")
 print(hasil)
 
-print(Meta, ": jadi rata-rata kecepatan kita adalah", rata_rata_kecepatan, "km/jam")
-print(Lusi, ": oke, jadi besok kita berangkat pagi-pagi.")
-print(Meta, ": iya, mari kita siap-siap.")
+print(orang1, ": jadi rata-rata kecepatan kita adalah", rata_rata_kecepatan, "km/jam")
+print(orang2, ": oke, jadi besok kita berangkat pagi-pagi.")
+print(orang1, ": iya, mari kita siap-siap.")
 print("Akhirnya mereka siap untuk liburan dan berangkat bersama ke", tempat_wisata)
